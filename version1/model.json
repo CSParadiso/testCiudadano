@@ -1,0 +1,11 @@
+{
+	"body": {
+		"name": "string",
+		"size": 12345.12,
+		"valid": true
+	},
+	"response": {
+		"status": false,
+		"description": "Success" 
+	}
+}
